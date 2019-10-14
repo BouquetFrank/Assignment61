@@ -1,0 +1,24 @@
+#header1 {
+	float: left;
+	width: 80%;
+}
+
+#header2 {
+	float: left;
+}
+
+#pic1 {
+	width: 100px;
+}
+
+#pic2 {
+	width: 100px;
+	float: left;
+	clear: both;
+}
+
+#pic3 {
+	width: 100px;
+	float: bottom;
+}
+
