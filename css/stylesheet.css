@@ -1,3 +1,10 @@
+@media screen and (max-width: 375px)
+{
+	#pic1 {
+		display: none;
+	}
+}
+
 #header1 {
 	float: left;
 	width: 80%;
@@ -8,17 +15,23 @@
 }
 
 #pic1 {
-	width: 100px;
+	width: 300px;
+	float: left;
+	clear: both;
 }
 
 #pic2 {
-	width: 100px;
+	width: 300px;
 	float: left;
 	clear: both;
 }
 
 #pic3 {
-	width: 100px;
-	float: bottom;
+	width: 300px;
+	float: left;
+	clear: both;
 }
 
+#foto {
+	width: 65%;
+}
